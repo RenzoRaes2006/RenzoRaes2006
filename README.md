@@ -1,7 +1,7 @@
 # Hi, I'm Renzo 👋
 
 **Applied Computer Science** student at AP University of Applied Sciences, Antwerp.  
-I enjoy building full-stack applications and I'm looking for an **internship (Feb–Jun)**.
+I enjoy building full-stack applications.
 
 ### 🛠️ Tech
 **Backend:** C# / ASP.NET Core · Java / Spring Boot · Nest.js  
