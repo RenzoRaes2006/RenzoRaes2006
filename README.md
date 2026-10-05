@@ -1,17 +1,17 @@
-# Hoi, ik ben Renzo 👋
+# Hi, I'm Renzo 👋
 
-Student **Toegepaste Informatica** aan AP Hogeschool Antwerpen.  
-Ik bouw graag full-stack applicaties en ben op zoek naar een **stageplaats (feb–jun)**.
+**Applied Computer Science** student at AP University of Applied Sciences, Antwerp.  
+I enjoy building full-stack applications and I'm looking for an **internship (Feb–Jun)**.
 
 ### 🛠️ Tech
 **Backend:** C# / ASP.NET Core · Java / Spring Boot · Nest.js  
-**Frontend:** Angular · React  
-**Data & overig:** MySQL · Firebase · Unity (VR) · Git
+**Frontend:** Angular · React · React Native  
+**Data & other:** MySQL · Firebase · TypeScript · Unity (VR) · Git
 
-### 🚀 Projecten
-- **[GoSmartLib](https://github.com/RenzoRaes2006/ICT-Architecture)**: online bibliotheek voor GO! Scholengroep Antwerpen (Angular + Spring Boot + MySQL). Teamproject, ik werkte aan …
-- **[PadelApp](https://github.com/Mavan03/padel-manager)**: mobiele app om padelmatchen te organiseren, velden te boeken en realtime te chatten (React Native/Expo + TypeScript + Firebase). Duo-project: ik deed o.a. de Firebase-setup en het datamodel, de betaalflow en de profiel- en resultaatschermen.
-- - **[360° Stopmotion VR](https://github.com/RenzoRaes2006/360-stopmotion-vr)**: Insta360-beelden als stopmotion in Unity, te bekijken met een VR-headset
+### 🚀 Projects
+- **[GoSmartLib](https://github.com/RenzoRaes2006/ICT-Architecture)**: online library for GO! Scholengroep Antwerpen (Angular + Spring Boot + MySQL). Team project, I worked on …
+- **[PadelApp](https://github.com/Mavan03/padel-manager)**: mobile app for organising padel matches, booking courts and chatting in real time (React Native/Expo + TypeScript + Firebase). Duo project: I handled the Firebase setup and data model, the payment flow, and the profile and results screens, among other things.
+- **[360° Stopmotion VR](https://github.com/RenzoRaes2006/360-stopmotion-vr)**: Insta360 footage turned into a stop-motion experience in Unity, viewable with a VR headset
 
 ### 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/renzo-raes-b14963253/) · renzo.raes@student.ap.be
